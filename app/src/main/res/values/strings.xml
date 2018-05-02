@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="this_is_1st_one">This is 1st one</string>
+
+    <string-array name="names">
+        <item>Please select a country.</item>
+        <item>United Arab Emirates Dirham</item>
+        <item>Afghan Afghani</item>
+        <item>Albanian Lek</item>
+        <item>Armenian Dram</item>
+        <item>Netherlands Antillean Guilder</item>
+        <item>Work</item>
+        <item>Work</item>
+        <item>Work</item>
+        <item>Work</item>
+        <item>Work</item>
+    </string-array>
+</resources>

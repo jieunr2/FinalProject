@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AEDActivity">
+
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="71dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/USD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USD"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="117dp"
+        tools:ignore="MissingConstraints" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="255dp"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AED"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="301dp"
+        tools:ignore="MissingConstraints" />
+
+</android.support.constraint.ConstraintLayout>
